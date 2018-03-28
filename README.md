@@ -1,3 +1,3 @@
 # Stratego
 Implementation of Stratego in Java
-![Stratego](/img.jpg)
+![Stratego](/images.jpg)
